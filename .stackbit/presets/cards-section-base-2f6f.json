@@ -1,0 +1,318 @@
+{
+    "model": "cardsSection",
+    "srcType": "sanity",
+    "srcProjectId": "vrd1npwa:production",
+    "presets": [
+        {
+            "label": "Base",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Mine"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "heading": "TMDM-Archive!",
+                "body": "**Explore *TMDM*** **Notes, Lab Reports, Assignments Here!**\n",
+                "items": [
+                    {
+                        "$$type": "card",
+                        "badge": null,
+                        "heading": "Level - 01 : Term - I",
+                        "body": "",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Notes",
+                                "url": "/L1T1 Courses",
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Reports",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "QB",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "secondary"
+                            }
+                        ],
+                        "image": null,
+                        "theme": null,
+                        "textAlign": "center",
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": null,
+                        "heading": "Level - 01 : Term - II",
+                        "body": "",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Notes",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Reports",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "QB",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "secondary"
+                            }
+                        ],
+                        "image": null,
+                        "theme": "dark",
+                        "textAlign": "center",
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": null,
+                        "heading": "Level - 02 : Term - I",
+                        "body": "",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Notes",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Reports",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "QB",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "secondary"
+                            }
+                        ],
+                        "image": null,
+                        "theme": "light",
+                        "textAlign": "center",
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": null,
+                        "heading": "Level - 02 : Term - II",
+                        "body": "",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Notes",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Reports",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "QB",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "secondary"
+                            }
+                        ],
+                        "image": null,
+                        "theme": "dark",
+                        "textAlign": "center",
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": null,
+                        "heading": "Level - 03 : Term - I",
+                        "body": "",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Notes",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Reports",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "QB",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "secondary"
+                            }
+                        ],
+                        "image": null,
+                        "theme": "transparent",
+                        "textAlign": "center",
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": null,
+                        "heading": "Level - 03 : Term - II",
+                        "body": "",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Notes",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Reports",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "QB",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "secondary"
+                            }
+                        ],
+                        "image": null,
+                        "theme": "dark",
+                        "textAlign": "center",
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": null,
+                        "heading": "Level - 04 : Term - I",
+                        "body": "",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Notes",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Reports",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "QB",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "secondary"
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": null,
+                            "alt": null
+                        },
+                        "theme": "light",
+                        "textAlign": "center",
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": null,
+                        "heading": "Level - 04 : Term - II",
+                        "body": "",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Notes",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Reports",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "QB",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "secondary"
+                            }
+                        ],
+                        "image": null,
+                        "theme": "dark",
+                        "textAlign": "center",
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": null,
+                        "heading": "You can contribute!",
+                        "body": "Submit your Notes!\n",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Click Here!",
+                                "url": null,
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            }
+                        ],
+                        "image": null,
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    }
+                ],
+                "theme": "light",
+                "backgroundImage": {
+                    "$$type": "backgroundImage",
+                    "image": null,
+                    "opacity": 100
+                },
+                "width": "inset",
+                "columns": "three"
+            }
+        }
+    ]
+}
