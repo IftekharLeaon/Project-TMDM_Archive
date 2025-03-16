@@ -1,0 +1,44 @@
+{
+    "model": "header",
+    "srcType": "sanity",
+    "srcProjectId": "vrd1npwa:production",
+    "presets": [
+        {
+            "label": "2",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Mine"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "TMDM-Archive",
+                "logo": {
+                    "$$type": "customImage",
+                    "image": {
+                        "$$ref": "image-d07357646f8a750b1e9bf823c756861a63338c0b-400x90-png",
+                        "$$type": "__asset_model"
+                    },
+                    "alt": "TMDM-Archive"
+                },
+                "navLinks": [
+                    {
+                        "$$type": "actionButton",
+                        "label": "TMDM Official Site",
+                        "url": "https://www.butex.edu.bd/department-of-textile-machinery-design-and-maintenance/",
+                        "ariaLabel": null,
+                        "theme": "primary"
+                    },
+                    {
+                        "$$type": "actionButton",
+                        "label": "BUTEX",
+                        "url": "https://www.butex.edu.bd/homepage/",
+                        "ariaLabel": null,
+                        "theme": "accent"
+                    }
+                ]
+            }
+        }
+    ]
+}
